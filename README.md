@@ -19,7 +19,8 @@ A fun and interactive **Snake and Ladder** game developed using **Python** and t
 - **Ladders:** `{1→38, 4→14, 9→31, 21→42, 28→84, 36→44, 51→67, 71→91, 80→100}`
 
 ## 🖼️ Screenshot
-*(Add a screenshot of your game window here)*
+![image](https://github.com/user-attachments/assets/04c8bf92-a32a-4bb1-b332-dc3c6043ebd3)
+
 
 ## 🛠️ Requirements
 
@@ -34,8 +35,6 @@ A fun and interactive **Snake and Ladder** game developed using **Python** and t
 3. Install required library:
    ```bash
    pip install pillow
-
-   Run the game:
 4. Run the game : python your_file_name.py
 
 🙋‍♂️ How to Play
